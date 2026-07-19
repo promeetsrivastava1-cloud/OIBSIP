@@ -122,6 +122,10 @@ Retail_Sales_EDA/
 
 ---
 
+## 🎥 Project Demonstration
+You can watch the full project walkthrough and demonstration here:
+[**Watch the Demo on LinkedIn**](https://www.linkedin.com/posts/promeetsrivastava_oasisinfobyte-oibsip-dataanalytics-ugcPost-7484620120145739776-tP6r)
+
 ## 🚀 How to Run the Project
 
 ### Clone the repository

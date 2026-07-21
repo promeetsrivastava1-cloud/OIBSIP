@@ -53,6 +53,10 @@ Through this comprehensive exploratory data analysis, the performance landscape 
 - **Quality First:** Because the bulk of apps are rated between 4.0 and 4.5, high quality is the "entry price" to the market. Apps falling below a 4.0 rating should undergo an immediate user-experience audit to identify and resolve performance issues that may be suppressing growth.
 - **Future Work:** This analysis provides a solid baseline. Future iterations could incorporate a time-series analysis to evaluate how app updates or version changes directly correlate with sentiment shifts and rating stability over time.
 
+- ## 🎥 Project Demonstration
+You can watch the full project walkthrough and read the post here:
+[**View the Post on LinkedIn**](https://www.linkedin.com/posts/promeetsrivastava_oasisinfobyte-oibsip-dataanalytics-ugcPost-7485259396705427456-3fqs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADczoOcBGCknx21-xvuTJ3EdsTSnSaYeWF0)
+
 ## Author
 Promeet Srivastava
 Data Analytics Intern — Oasis Infobyte

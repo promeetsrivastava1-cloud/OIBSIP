@@ -62,8 +62,8 @@ After preprocessing, the dataset became:
 ## 📁 Repository Contents
 
 - `Task_3_Data_Cleaning_Oasis.ipynb` – Complete data cleaning notebook
-- `titanic_raw.csv` – Original dataset
-- `titanic_cleaned.csv` – Cleaned dataset
+- `titanic_raw_dataset.csv` – Original dataset
+- `titanic_cleaned_dataset.csv` – Cleaned dataset
 - `README.md`
 
 ---
